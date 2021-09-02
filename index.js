@@ -1,6 +1,4 @@
 const aoijs = require("aoi.js")
-const fs = require('fs')
-const config = require("./config.json")
 
 const bot = new aoijs.Bot({
 token: "token", //Discord Bot Token
