@@ -11,14 +11,6 @@ node.js
 
 Required Node packages: (Install with npm install <name>)
 
-aoi.js
-
-
-  @discordjs/opus (for music)
-
-  opusscript (for music)
-
-  ffmpeg-static (for music)
-Tested on Windows
+Type `npm i`
 
   if any issue appears, create issue
