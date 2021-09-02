@@ -1,0 +1,24 @@
+{
+  "name": "czlowiek",
+  "version": "1.0.0",
+  "description": "No description, website, or topics provided.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AleksanderPVP/czlowiek.git"
+  },
+  "author": "AleksanderPVP",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AleksanderPVP/czlowiek/issues"
+  },
+  "homepage": "https://github.com/AleksanderPVP/czlowiek#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "aoi.js": "^4.4.4",
+    "ffmpeg-static": "^4.4.0"
+  }
+}
